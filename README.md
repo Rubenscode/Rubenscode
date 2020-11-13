@@ -31,8 +31,8 @@ Lover of Technology and coding  :purple_heart:
 <center>
 <table>
   <tr>
-      <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=Rubenscode&show_icons=true&theme=buefy></td>
-      <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenscode&show_icons=true&theme=buefy&layout=compact></td>
+      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=Rubenscode&show_icons=true&theme=buefy></td>
+      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenscode&show_icons=true&theme=buefy&layout=compact></td>
   </tr>  
 </table>
 </center>
