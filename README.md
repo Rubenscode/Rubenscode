@@ -21,14 +21,23 @@ Lover of Technology and coding  :purple_heart:
 ![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=plastic&logo=docker&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=plastic&logo=spring&logoColor=white)
 
-## About me 
+## About Me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rubenscode)](https://github.com/Rubenscode)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubens-almeida-andrade/)](https://www.linkedin.com/in/rubens-almeida-andrade/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubens.andrade1@gmail.com)](mailto:rubens.andrade1@gmail.com)<br>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Rubenscode&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenscode&show_icons=true&theme=midnight-purple&layout=compact)](https://www.linkedin.com/in/rubens-almeida-andrade/)
+### Recent Activities ✨
+<center>
+<table>
+  <tr>
+      <td><img align="left" src=https://github-readme-stats.vercel.app/api?username=Rubenscode&show_icons=true&theme=buefy></td>
+      <td><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenscode&show_icons=true&theme=buefy&layout=compact></td>
+  </tr>  
+</table>
+</center>
+
+
 
 <p align="center">- Thanks for visiting.</p>
 <p align="center">- Enjoy it!! o/</p>
