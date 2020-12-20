@@ -3,7 +3,7 @@
 ## I'm Rubens Almeida de Andrade!
 Full-Stack student focused in Java | Software engineer :alien:
 
-Camper at 42 São Paulo : [![42 Badge](https://img.shields.io/badge/--black?style=square&logo=42&link=https://www.42sp.org.br/)](https://www.42sp.org.br/)  :basecamp: 
+Cadet Student at 42 São Paulo : [![42 Badge](https://img.shields.io/badge/--black?style=square&logo=42&link=https://www.42sp.org.br/)](https://www.42sp.org.br/)
 
 Lover of Technology and coding  :purple_heart:
 
