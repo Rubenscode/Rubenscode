@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
 
 ## I'm Rubens Almeida de Andrade!
-Full-Stack student focused in Java | Software engineer :alien:
+Full-Stack Developer Focused in Java | Software Engineer :alien:
 
 Cadet Student at 42 São Paulo : [![42 Badge](https://img.shields.io/badge/--black?style=square&logo=42&link=https://www.42sp.org.br/)](https://www.42sp.org.br/)
 
